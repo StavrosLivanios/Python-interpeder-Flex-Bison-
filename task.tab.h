@@ -1,0 +1,57 @@
+
+#define START_PAR
+#define STOP_PAR
+#define START_BRAC
+#define STOP_BRAC
+#define COMMA
+#define STAR
+#define FROM
+#define IMPORT
+#define AS
+#define NAME
+#define DOT
+#define INT
+#define FLOAT 
+#define EQUAL
+#define BOOLEAN
+#define LESSER
+#define GREATER
+#define NOT_EQUAL
+#define IS
+#define NOT
+#define IN
+#define PLUS
+#define MINUS
+#define AT
+#define FORWARD_SLASH
+#define BACKSLASH
+#define PERCENT
+#define TILDE
+#define AWAIT
+#define FOR
+#define LAMBDA
+#define ASYNC
+#define COLON
+#define IF
+#define ELSE
+#define ELIF
+#define OR
+#define AND
+#define YIELD
+#define VERTICAL_LINE
+#define POWER
+#define AMPERSAND
+#define START_CURLY
+#define STOP_CURLY
+#define DEF
+#define CLASS
+#define DEDENT
+#define INDENT 
+#define END 
+#define DEF_INIT
+#define STRING
+#define XOR
+#define PRINT
+
+
+
